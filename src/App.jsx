@@ -1,6 +1,6 @@
 
 import Header from "./Static/Header"
-import Home from "./Pages/Home"
+import Home from "../Pages/Home"
 import Company from "./Pages/Company"
 import Business from "./Pages/Company"
 import Help from "./Pages/Help"
