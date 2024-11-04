@@ -1,6 +1,6 @@
 
 import Header from "./Static/Header"
-import Home from "../Pages/Home"
+
 import Company from "./Pages/Company"
 import Business from "./Pages/Company"
 import Help from "./Pages/Help"
@@ -9,6 +9,7 @@ import Footer from "./Static/Footer"
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import React from "react"
 import "./index.css"
+import Home from "./pages/Home"
 
 const App = ()=> {
   
